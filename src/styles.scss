@@ -1,0 +1,10 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+.dropdown-toggle {
+  cursor: pointer;
+}
